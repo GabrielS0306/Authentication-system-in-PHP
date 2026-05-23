@@ -2,7 +2,7 @@
 
     try {
         $host = "localhost";
-        $port = "3307";
+        $port = ""; // -> Sua porta ex: 3306 ou 3007 
         $dbname = "dev_panel";
         $user = "root";
         $password = "";
